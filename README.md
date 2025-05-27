@@ -3,39 +3,39 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=250&section=header&text=Hi%20👋,%20I'm%20Anees%20Ali&fontSize=40&fontColor=ffffff" alt="banner"/>
 </p>
 
-<h2 align="center">🎯 Engineer | MBA at IIFT Delhi | Aspiring Product Manager</h2>
+<h2 align="center">🎯 Engineer | MBA at IIFT Delhi | Product & Analytics Enthusiast</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engineer-%23009688?style=for-the-badge&logo=semanticweb&logoColor=white" />
   <img src="https://img.shields.io/badge/MBA-IIFT%20Delhi-%230F52BA?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Product%20Management-Driven-%23F48024?style=for-the-badge&logo=product-hunt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product%20%26%20Analytics-Driven-%23F48024?style=for-the-badge&logo=product-hunt&logoColor=white" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a former Oracle ERP Developer turned Business Strategist, combining 4.5 years of tech experience at **TCS** with current MBA studies at **IIFT Delhi**. I'm passionate about using **data and design thinking** to build meaningful products and insights.
+I'm a former Oracle ERP Developer turned Business Strategist, combining 4.5 years of tech experience at **TCS** with my current MBA at **IIFT Delhi**. I’m passionate about solving real-world problems using **data, product thinking**, and **design tools**.
 
 - 🧑‍💼 **Worked at:** Tata Consultancy Services (TCS)  
 - 🛠 **Core Skills:** PL/SQL, Tableau, Power BI, Oracle Apps, Product Strategy  
 - 📈 **Current Projects:** Business dashboards, Market Analysis, Product Research  
-- 🎯 **Goal:** Transition into Product Management or Strategy Consulting  
+- 🎯 **Goal:** Transition into **Product Management or Analytics roles** that drive business impact  
 
 ---
 
 ### 💼 Experience Snapshot
 
-#### 🔧 Tata Consultancy Services – *Systems Engineer*  
-- Wrote 60+ PL/SQL scripts and automated business logic  
-- Improved data query performance by **70%**  
+#### 🔧 Tata Consultancy Services – *Systems Engineer*
+- Built and optimized 60+ PL/SQL scripts for enterprise processes  
+- Achieved 70% improvement in data query performance  
 - Customized 20+ Oracle ERP reports and forms  
-- Interacted with 25+ users and business analysts  
+- Worked with 25+ users and analysts to deliver tech solutions  
 
-#### 📊 MBA Projects
-- **Dashboarding:** Built BI dashboards using Tableau & Power BI  
-- **Product Management:** User persona creation, competitor benchmarking, MVP design  
-- **Market Research:** Conducted surveys, segmentation, and insights synthesis  
+#### 📊 MBA Projects at IIFT Delhi
+- **BI & Dashboarding:** Created insights dashboards in Tableau and Power BI  
+- **Product Development:** Built MVPs, mapped user journeys, defined features  
+- **Analytics Research:** Conducted surveys, segmentation, and competitive analysis  
 
 ---
 
@@ -47,6 +47,9 @@ I'm a former Oracle ERP Developer turned Business Strategist, combining 4.5 year
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=f06" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -60,7 +63,7 @@ I'm a former Oracle ERP Developer turned Business Strategist, combining 4.5 year
 
 ---
 
-### 📬 Connect with Me
+### 📬 Let’s Connect
 
 <p align="left">
   <a href="mailto:aneesali.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -69,7 +72,7 @@ I'm a former Oracle ERP Developer turned Business Strategist, combining 4.5 year
 
 ---
 
-> *“Great products are built at the intersection of user empathy, data, and execution. That’s where I strive to be.”*
+> *“Great products and analytics emerge at the intersection of empathy, data, and execution. That’s where I strive to be.”*
 
 ---
 
