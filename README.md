@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=250&section=header&text=Hi%20👋,%20I'm%20Anees%20Ali&fontSize=40&fontColor=ffffff" alt="banner"/>
 </p>
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://github.com/anees-iift.png" alt="Anees Ali" width="150" height="150" style="border-radius: 50%;" />
-</p>
-
 <h2 align="center">🎯 Engineer | MBA at IIFT Delhi | Aspiring Product Manager</h2>
 
 <p align="center">
@@ -68,8 +63,8 @@ I'm a former Oracle ERP Developer turned Business Strategist, combining 4.5 year
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:anees4131@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://www.linkedin.com/in/aneesali](https://www.linkedin.com/in/anees-ali-ab5b47143/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aneesali.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aneesali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
